@@ -19,5 +19,5 @@ During my time in indie development, I contributed as a Tech Artist and QA to se
 
 ### 📫 Let's Connect
 - **LinkedIn:** [Albert Bielashov](https://www.linkedin.com/in/albert-bielashov-618b68340/)
-- **Portfolio:** [asciif.github.io](asciif.github.io/)
+- **Portfolio:** [asciif.github.io](https://asciif.github.io/)
 - **Email:** czal1332bert@gmail.com
